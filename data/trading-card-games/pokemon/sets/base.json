@@ -14,7 +14,7 @@
       "artist": "Ken Sugimori",
       "pokemonPower": {
         "name": "Damage Swap",
-        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokemon to another as long as you don't Knock Out that Pokemon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
       },
       "text": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000.",
       "attacks": [
@@ -56,9 +56,9 @@
       "artist": "Ken Sugimori",
       "pokemonPower": {
         "name": "Rain Dance",
-        "text": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+        "text": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokemon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
       },
-      "text": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+      "text": "A brutal Pokemon with pressurized water jets on its shell. They are used for high-speed tackles.",
       "attacks": [
         {
           "name": "Hydro Pump",
@@ -95,7 +95,7 @@
       ],
       "rarity": "Rare Holo",
       "artist": "Ken Sugimori",
-      "text": "A rare and elusive Pokémon that is said to bring happiness to those who manage to catch it.",
+      "text": "A rare and elusive Pokemon that is said to bring happiness to those who manage to catch it.",
       "attacks": [
         {
           "name": "Scrunch",
@@ -199,7 +199,7 @@
           "cost": [
             "Colorless"
           ],
-          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+          "text": "Flip a coin. If heads, the Defending Pokemon is now Asleep."
         },
         {
           "name": "Metronome",
@@ -259,7 +259,7 @@
             "Water",
             "Water"
           ],
-          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+          "text": "Flip a coin. If heads, the Defending Pokemon is now Paralyzed."
         }
       ],
       "weaknesses": [
@@ -384,7 +384,7 @@
             "Lightning",
             "Colorless"
           ],
-          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+          "text": "Flip a coin. If heads, the Defending Pokemon is now Paralyzed."
         },
         {
           "name": "Selfdestruct",
@@ -395,7 +395,7 @@
             "Colorless",
             "Colorless"
           ],
-          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself."
+          "text": "Does 20 damage to each Pokemon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokemon.) Magneton does 80 damage to itself."
         }
       ],
       "weaknesses": [
@@ -428,7 +428,7 @@
             "Psychic",
             "Colorless"
           ],
-          "text": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+          "text": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokemon."
         },
         {
           "name": "Barrier",
@@ -518,7 +518,7 @@
             "Colorless",
             "Colorless"
           ],
-          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokemon."
+          "text": "If your opponent has any Benched Pokemon, choose 1 of them and switch it with the Defending Pokemon."
         },
         {
           "name": "Fire Blast",
@@ -650,7 +650,7 @@
       "artist": "Mitsuhiro Arita",
       "pokemonPower": {
         "name": "Energy Trans",
-        "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+        "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokemon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
       },
       "text": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
       "attacks": [
@@ -806,7 +806,7 @@
             "Colorless",
             "Colorless"
           ],
-          "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+          "text": "If the Defending Pokemon has any Energy cards attached to it, choose 1 of them and discard it."
         }
       ],
       "resistances": [
@@ -852,7 +852,7 @@
             "Fighting",
             "Fighting"
           ],
-          "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+          "text": "Does 10 damage to each of your own Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)"
         }
       ],
       "weaknesses": [
