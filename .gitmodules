@@ -1,0 +1,3 @@
+[submodule "trading-card-games"]
+	path = trading-card-games
+	url = git@github.com:geek-stash/trading-card-games.git
